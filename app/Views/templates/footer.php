@@ -1,5 +1,3 @@
+    <em>&copy; 2019</em>
 </body>
-<footer>
-	<em>&copy; 2015</em>
-</footer>
-<html>
+</html>

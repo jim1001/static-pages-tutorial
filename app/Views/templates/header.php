@@ -1,3 +1,5 @@
+<!doctype html>
+<html>
 <head>
 <title>Static Pages Tutorial</title>
 </head>
