@@ -1,4 +1,4 @@
 <br><br>
-<h2>Welcome to CodeIgniter</h2>
+<h2>Content of home.php</h2>
 <br>
-<h3>Enjoy learning it.</h3>
+<h3>More content of home.php</h3>
